@@ -12,3 +12,9 @@ automatically stay up-to-date with your remote repository?
 For prevent crash of project, if I make same changes which fall all the project in mess.
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is operation to copy other repository to your own. 
+Clone is copy repository from GitHub to local or from local to local.
+Forking is not copying username of repository.
+Branch is sequence of commits.
