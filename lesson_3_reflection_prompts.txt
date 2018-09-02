@@ -25,3 +25,18 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Have a working code without any minute updates of another collaborations.
 Can analyze changes witch make other.
+
+
+
+
+How would you collaborate without using Git or GitHub?  
+What would be easier,
+and what would be harder?
+
+  
+
+Without using Git we use same file directory such as network shared folder.
+For differ version using different directory, time and data named.
+More easier - more simple, it useful for small project with small numbers of coworkers.
+Harder - make safe file in directory. 
+Git always make an opportunity to step back, but if you rewrite file in folder it can`t be fixed.
